@@ -1,0 +1,4 @@
+This file contains basic info on what is in this folder
+--------------------------------------------------------------------------------------------------------------------------------
+This folder contains the game design document, techenical design document, the story line, and other important items
+this folder also contains sensative documents please do not distrubute to any random person
